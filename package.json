@@ -1,0 +1,19 @@
+{
+  "name": "loan-management-system",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "celery-node": "^0.5.9",
+    "express": "^4.19.2",
+    "mysql2": "^3.9.5",
+    "sequelize": "^6.37.3",
+    "xlsx": "^0.18.5"
+  }
+}
